@@ -733,6 +733,7 @@
 + Service Provider，服务提供方
 + session jacking，会话劫持
 + Setting，设置
++ Sharding，分片，分区
 + Shared，共享；分享
 + Shopping cart，购物车
 + Sign in，登录
