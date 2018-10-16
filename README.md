@@ -7,6 +7,8 @@
 + access，获取，存取
 + acoustic coupler，声音耦合器
 + Active Directory，活动目录
++ Active-Active, 双活
++ Active-Passive, 主备
 + Acyclic Dependencies Principle，非循环依赖原则（ADP）
 + acyclic digraph，有向无环图	
 + Adaptive Code，自适应代码
@@ -514,6 +516,7 @@
 + Multipath Hierarchy，多路径层次结构<sup>2</sup>
 + Multitier Architecture，多层体系结构
 + Multi-factor Authentication，多重验证
++ Multi-Active, 多活
 
 ## N
 
